@@ -47,4 +47,8 @@ For other terminals, set the background to `#090416` or copy the 16 ANSI colors 
 - Claude Code colors the "auto mode on" indicator with the `warning` token. Auto mode is acid green in this theme, so warnings are green too, the same as success messages. Only the ⚠ and ✔ icons tell them apart.
 - Errors use `#FF4D4D`, which sits close to the crimson accent.
 
+## License
+
+[MIT](LICENSE). This covers the theme files in this repo.
+
 *Cyberpunk: Edgerunners* and its characters belong to their respective owners. This is an unofficial fan theme and isn't affiliated with them.
