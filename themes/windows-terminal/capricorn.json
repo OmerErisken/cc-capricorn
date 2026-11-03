@@ -1,0 +1,29 @@
+{
+  "schemes": [
+    {
+      "name": "Capri",
+      "background": "#090416",
+      "foreground": "#F8F9F9",
+      "cursorColor": "#01FE68",
+      "selectionBackground": "#4B0B6E",
+
+      "black": "#1F1430",
+      "red": "#FC1148",
+      "green": "#01FE68",
+      "yellow": "#FFD23F",
+      "blue": "#3D8BFF",
+      "purple": "#B44DFF",
+      "cyan": "#00E5FF",
+      "white": "#D8D2E4",
+
+      "brightBlack": "#7A6A92",
+      "brightRed": "#FF6E95",
+      "brightGreen": "#8DFFB8",
+      "brightYellow": "#FFE57A",
+      "brightBlue": "#8AB8FF",
+      "brightPurple": "#D49CFF",
+      "brightCyan": "#7DF3FF",
+      "brightWhite": "#F8F9F9"
+    }
+  ]
+}
